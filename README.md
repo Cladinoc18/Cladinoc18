@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cladinoc18&label=Profile%20views&color=0e75b6&style=flat" alt="cladinoc18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cladinoc18" alt="cladinoc18" /></a> </p>
+- 🌱 I’m currently learning: **Javascript, Typescript, react, node**
 
-- 🌱 I’m currently learning **Javascript, Typescript, react, node**
+- 💬 Ask me about: **Javascript, Typescript, python**
 
-- 💬 Ask me about **Javascript, Typescript, python**
+- 📫 How to reach me: **citylavivas@gmail.com**
 
-- 📫 How to reach me **citylavivas@gmail.com**
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1LxwMiIrYWHKrgu4cDU_rZKtFdpn0Srsr/view?usp=sharing](https://drive.google.com/file/d/1LxwMiIrYWHKrgu4cDU_rZKtFdpn0Srsr/view?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LxwMiIrYWHKrgu4cDU_rZKtFdpn0Srsr/view?usp=sharing](https://drive.google.com/file/d/1LxwMiIrYWHKrgu4cDU_rZKtFdpn0Srsr/view?usp=sharing)
-
-- ⚡ Fun fact **I like cooking and playing video games.**
+- ⚡ **I like cooking and playing video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
